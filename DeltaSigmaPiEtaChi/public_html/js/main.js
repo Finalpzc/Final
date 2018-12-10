@@ -98,5 +98,3 @@ for (var i = 0; i < images.length; i++) //establish for, 6 items, last index pla
 
 
 }
-
-
